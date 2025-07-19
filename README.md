@@ -13,26 +13,27 @@ This project is a full-stack web application that allows users to visualize buil
 
 ---
 
-## 📁 Project Structure
 
+```text
 MASIVAssignment/
-├── backend/ # Flask API and database logic
-│ ├── app.py
-│ ├── models.py
-│ ├── routes.py
-│ ├── llm_utils.py
-│ └── requirements.txt
-├── frontend/ # React + Three.js dashboard
-│ ├── public/
-│ │ └── calgary.jpg
-│ ├── src/
-│ │ ├── App.js
-│ │ ├── App.css
-│ │ ├── api.js
-│ │ └── components/
-│ │ ├── MapView.js
-│ │ └── SaveLoadPanel.js
-│ └── package.json
+├── backend/                # Flask API and database logic
+│   ├── app.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── llm_utils.py
+│   └── requirements.txt
+├── frontend/               # React + Three.js dashboard
+│   ├── public/
+│   │   └── calgary.jpg
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   ├── api.js
+│   │   └── components/
+│   │       ├── MapView.js
+│   │       └── SaveLoadPanel.js
+│   └── package.json
+```
 
 ## 🧠 Prerequisites
 

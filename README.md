@@ -29,12 +29,15 @@ MASIVAssignment/
 │   ├── src/
 │   │   ├── App.js
 │   │   ├── App.css
+│   │   ├── index.js
+│   │   ├── index.css
 │   │   ├── api.js
 │   │   └── components/
 │   │       ├── MapView.js
 │   │       └── SaveLoadPanel.js
 │   └── package.json
 ```
+
 
 ## 🧠 Prerequisites
 

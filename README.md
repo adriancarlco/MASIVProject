@@ -91,7 +91,6 @@ npm install \
   web-vitals@2.1.4
 
 3. Start your project
-
-npm start
+   npm start
 
 

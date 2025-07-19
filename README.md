@@ -36,7 +36,7 @@ MASIVAssignment/
 
 ## 🧠 Prerequisites
 
-- Node.js (v18+ recommended)
+- Node.js (v18 recommended)
 - Python 3.9 or newer
 - Git
 - Google Gemini API key (for LLM filter extraction)

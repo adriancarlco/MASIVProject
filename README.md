@@ -69,7 +69,7 @@ python app.py
 
 5. Delete node_modules and package-lock.json if starting clean:
 
-## 🔧 Backend Setup (Flask)
+## 🔧 Frontend Setup (React)
 
 1. Navigate to the frontend directory
 cd frontend

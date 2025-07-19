@@ -13,6 +13,7 @@ This project is a full-stack web application that allows users to visualize buil
 
 ---
 
+📁 **Project Structure**
 
 ```text
 MASIVAssignment/

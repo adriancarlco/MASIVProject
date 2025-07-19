@@ -69,8 +69,12 @@ python app.py
 
 5. Delete node_modules and package-lock.json if starting clean:
 
-6. Set up the frontend
+## 🔧 Backend Setup (Flask)
+
+1. Navigate to the frontend directory
 cd frontend
+
+2. Install dependencies
 npm install
 npm install \
   @react-three/drei@9.56.14 \
@@ -86,7 +90,7 @@ npm install \
   three@0.152.2 \
   web-vitals@2.1.4
 
-7. Start your project:
+3. Start your project
 
 npm start
 
